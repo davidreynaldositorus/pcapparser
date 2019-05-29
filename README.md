@@ -21,7 +21,7 @@ fmt.format()
 2. Run this project in terminal using this script
 
 ```bash
-sudo python -pcap files.pcap --csv output.csv
+sudo python pcapparser.py --pcap files.pcap --csv output.csv
 ```
 
 Where the output files is the name of the output.
